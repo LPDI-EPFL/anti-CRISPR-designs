@@ -12,3 +12,5 @@ To generate the domain fusions between the LOV and the Acr domains we used the R
 Computational interface design was carried out on the full interface for a total of 500 decoys. In silico saturation mutagenesis was performed for all the interface residues in Acr using the RosettaScripts application. Designs with interaction energies (ddGs) within the same range or lower than that of the wild-type complex, were manually inspected and the best mutations were selected for experimental characterization.
 
 ![Alt text](images/arcIIa4_interface.png "The arcIIA4 interface for design in red.")
+
+Rosetta version used: 2d4add5760f905a54da645321a011e7d051c9440
